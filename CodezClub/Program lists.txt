@@ -40,7 +40,6 @@ Link:https://www.codezclub.com/cpp-solved-programs-problems-solutions/
 36.
 37.
 38.
-39.
 
 C++ Program to convert inches into yard, feet and inches 
 C++ Program to Convert Days Into Years, Weeks and Days
